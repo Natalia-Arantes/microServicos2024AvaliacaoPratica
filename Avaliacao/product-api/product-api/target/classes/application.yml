@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://nataliaarantes:Onitorinco23@natalia.hd5cf.mongodb.net/?retryWrites=true&w=majority&appName=Natalia
+      database: relacionamentos
+server:
+  port: 8081
